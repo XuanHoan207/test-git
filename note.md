@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch: Nhánh
 conflict: xung đột
+local: nội bộ
+remote: từ xa
 
 # Commands : Lệnh
 
@@ -33,3 +35,6 @@ conflict: xung đột
 - git merge {tên branch cần tổng hợp} : gộp nhánh
 
 - git branch -d {Tên nhánh cần xóa} : Xóa 1 nhánh nào đó
+
+- git push { đường hướng dẫn của repo} và nhánh : đẩy project lên github
+

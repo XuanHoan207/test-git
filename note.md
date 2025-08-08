@@ -27,3 +27,4 @@ Branch: Nhánh
 
 - git branch: Cho phép chúng ta xem nhánh
 
+- git checkout -b 'tên' : tạo ra 1 nhánh mới 

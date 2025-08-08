@@ -27,4 +27,8 @@ Branch: Nhánh
 
 - git branch: Cho phép chúng ta xem nhánh
 
+<<<<<<< HEAD
 - git merge {tên branch cần tổng hợp}
+=======
+- git checkout -b 'tên' : tạo ra 1 nhánh mới 
+>>>>>>> dev

@@ -38,3 +38,5 @@ remote: từ xa
 
 - git push { đường hướng dẫn của repo} và nhánh : đẩy project lên github
 
+- git remote add origin { đường dẫn đến project của mình} : tên 1 cái đường dẫn có tên là origin 
+

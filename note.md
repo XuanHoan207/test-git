@@ -27,3 +27,4 @@ Branch: Nhánh
 
 - git branch: Cho phép chúng ta xem nhánh
 
+- git merge {tên branch cần tổng hợp}

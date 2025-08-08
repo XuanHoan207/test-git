@@ -2,7 +2,7 @@
 
 Repository (Repo)
 Branch: Nhánh
-conflict: 
+conflict: xung đột
 
 # Commands : Lệnh
 

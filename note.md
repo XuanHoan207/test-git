@@ -16,4 +16,8 @@ Repository (Repo)
 
 - git commit -m '' : trong 2 dấu '' này thì sẽ ghi nội dung muốn đẩy lên
 
--
+- git log : xem lại thời điểm mà chúng ta lưu 
+
+- git log --oneline: là xem lại kiểu sút gọn ( nó chỉ hiện thứ tự chứ không hiện thời gian )
+
+- git checkout 'thêm id': trở về chỗ cần về

@@ -26,6 +26,8 @@ conflict: xung đột
 
 -git checkout master: trở về thời điểm hiện tại
 
+-git checkout -b {tên branch} : tạo thêm 1 nhánh mới 
+
 - git branch: Cho phép chúng ta xem nhánh
 
 - git merge {tên branch cần tổng hợp} : gộp nhánh
